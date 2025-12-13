@@ -26,7 +26,7 @@ logging.basicConfig(
 )
 
 # ====== CONFIG ======
-TELEGRAM_TOKEN = "8504397259:AAFPWx7h1foK0TxofkoSM1Jrs840U0tI6QE"
+TELEGRAM_TOKEN = "8504397259:AAF8JMbj-q235HxaxA5o3PMXE9sEx46a5k8"
 FTP_HOST = "ftp.indiatraderoute.com"
 FTP_USER = "tele2ftp@indiatraderoute.com"
 FTP_PASS = "mnSyNPcrmtYELV3XKLZd"
