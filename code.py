@@ -30,7 +30,7 @@ TELEGRAM_TOKEN = "8504397259:AAF8JMbj-q235HxaxA5o3PMXE9sEx46a5k8"
 FTP_HOST = "ftp.indiatraderoute.com"
 FTP_USER = "tele2ftp@indiatraderoute.com"
 FTP_PASS = "mnSyNPcrmtYELV3XKLZd"
-FTP_DIR  = "/home/indiatra/domains/tharak.indiatraderoute.com/public_html/videos"
+FTP_DIR  = "/home/indiatra/domains/tharak.indiatraderoute.com/videos"
 
 # ====== FTP UPLOAD FUNCTION ======
 def upload_to_ftp(filename, file_bytes):
